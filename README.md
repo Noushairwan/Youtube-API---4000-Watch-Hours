@@ -39,7 +39,7 @@ This project automates the viewing of YouTube videos using Selenium with Tor for
    - Adjust `totalIterations`, `tabsPerIteration`, and timings (`tabDuration`, `iterationInterval`) in the code to suit your needs.
 
 ## Notes
-- Ensure Mozilla Firefox with Tor Browser is correctly installed and located as specified in the code (`C:\Users\nusha\AppData\Local\Tor Browser\Browser\firefox.exe`).
+- Ensure Mozilla Firefox with Tor Browser is correctly installed and located as specified in the code (`C:\Users\AppData\Local\Tor Browser\Browser\firefox.exe`).
 - The application handles Tor connection settings and YouTube consent popups automatically.
 - Debugging: Utilize `Debugger.Break()` for breakpoint debugging if errors occur during video playback.
 
