@@ -5,7 +5,7 @@ This project automates the viewing of YouTube videos using Selenium with Tor for
 
 ## Requirements
 - .NET Core SDK
-- Mozilla Firefox with Tor Browser installed at the specified location (`C:\Users\nusha\AppData\Local\Tor Browser\Browser\firefox.exe`)
+- Mozilla Firefox with Tor Browser installed at the specified location (`C:\Users\User\AppData\Local\Tor Browser\Browser\firefox.exe`)
 - Selenium WebDriver for Firefox (`OpenQA.Selenium`)
 
 ## Setup
